@@ -1,8 +1,8 @@
 ### Hi there 👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <img src="https://komarev.com/ghpvc/?username=Ekansh-187&style=for-the-badge&color=brightgreen" alt=""/>
 </div>
+ <img src="https://komarev.com/ghpvc/?username=Ekansh-187&style=for-the-badge&color=brightgreen" alt=""/>
 
 <!--
 **Ekansh-187/Ekansh-187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
